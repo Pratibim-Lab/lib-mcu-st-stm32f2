@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F2/STM32F205Z_C-E-F-G_Tx:STM32F205Z_C-E-F-G_Tx",
+  "name": "STM32F205Z_C-E-F-G_Tx",
+  "library": "MCU_ST_STM32F2",
+  "file": "MCU_ST_STM32F2.kicad_symdir/STM32F205Z_C-E-F-G_Tx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M3 MCU, 256-1024KB flash, 96-128KB RAM, 120 MHz, 1.8-3.6V, 114 GPIO, LQFP144",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f205zc.pdf",
+  "keywords": "Arm Cortex-M3 STM32F2 STM32F2x5",
+  "footprint": "Package_QFP:LQFP-144_20x20mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f2@master/parts/STM32F205Z_C-E-F-G_Tx/",
+  "part_path": "parts/STM32F205Z_C-E-F-G_Tx",
+  "symbol_file": "parts/STM32F205Z_C-E-F-G_Tx/STM32F205Z_C-E-F-G_Tx.kicad_sym",
+  "source_library": "MCU_ST_STM32F2.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:20.329Z"
+}
